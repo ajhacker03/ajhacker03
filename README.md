@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Ashin. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Ajay. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ashinberish/ashinberish/main/progamming.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
