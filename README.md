@@ -17,7 +17,7 @@
 
 <h3>💻 Coding Games </h3>
 
-- <a href="https://www.codingame.com/profile/ea529c2b056ba1b772b8c4ed7cb895c39291173" target="_blank" rel="noopener noreferrer"><img src="" width="50" /></a> 
+- <a href="https://www.codingame.com/profile/ea529c2b056ba1b772b8c4ed7cb895c39291173" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ajhacker03/ajhacker03/blob/main/cg.png" width="50" /></a> 
 - <a href="https://www.codewars.com/users/im_aj" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ajhacker03/ajhacker03/blob/main/cd.png" width="50" /></a> 
 
 <br>
