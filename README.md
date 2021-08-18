@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Ajay. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ajhacker03/ajhacker03/blob/main/5eKX.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ajhacker03/ajhacker03/main/5eKX.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
