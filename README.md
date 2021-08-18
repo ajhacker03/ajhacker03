@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hey there! I'm Ashin. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ashinberish/ashinberish/main/progamming.gif" width="500"/>
 
-<!--
-**ajhacker03/ajhacker03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently learning Android and Web Application Development
+- 🤔 &nbsp; Exploring new technologies and developing Software Solutions.
+- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 🌱 &nbsp; Enthusiast in Cyber Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | Kotlin | JavaScript  
+- 🌐 &nbsp; HTML | CSS | JavaScript
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Visual Studio code | Git
+
+<br>
+</br>
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">  
+&nbsp; <a href="https://www.instagram.com/ajhcker/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a> 
+&nbsp; <a href="mailto:ajayhacker03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
