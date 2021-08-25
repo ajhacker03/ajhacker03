@@ -6,6 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Android and Web Application Development
 - 🤔 &nbsp; Exploring new technologies and developing Software Solutions.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
+- 💻 &nbsp; Competitive Programmer.
 - 🌱 &nbsp; Cyber Security Enthusiast.
 
 <h3>🛠 Tech Stack</h3>
