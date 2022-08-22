@@ -6,19 +6,18 @@
 - 🔭 &nbsp; I’m currently learning Android and Web Application Development
 - 🤔 &nbsp; Exploring new technologies and developing Software Solutions.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
-- 💻 &nbsp; Competitive Programmer.
-- 🌱 &nbsp; Cyber Security Enthusiast.
+- 💻 &nbsp; Competitive Programming Enthusiast.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | Kotlin | JavaScript  
+- 💻 &nbsp; C++ | Python | Java | Kotlin | JavaScript
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Visual Studio code | Git
 
 <h3>💻 Coding Game Profiles </h3>
 
-- <a href="https://www.codingame.com/profile/ea529c2b056ba1b772b8c4ed7cb895c39291173" target="_blank" ><img src="https://github.com/ajhacker03/ajhacker03/blob/main/CG.jpg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/im_aj" target="_blank"><img src="https://github.com/ajhacker03/ajhacker03/blob/main/CD.jpg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ajhacker03" target="_blank"><img src="https://github.com/ajhacker03/ajhacker03/blob/main/HackerRank.png" width="40" /></a>
+- <a href="https://www.codingame.com/profile/ea529c2b056ba1b772b8c4ed7cb895c39291173" target="_blank" ><img src="https://github.com/ajhacker03/ajhacker03/blob/main/CG.jpg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codewars.com/users/im_aj" target="_blank"><img src="https://github.com/ajhacker03/ajhacker03/blob/main/CD.jpg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hackerrank.com/ajhacker03" target="_blank"><img src="https://github.com/ajhacker03/ajhacker03/blob/main/HackerRank.png" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://binarysearch.com/@/im_aj" target="_blank" ><img src="https://github.com/ajhacker03/ajhacker03/blob/main/binarysearch.jpg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 </br>
